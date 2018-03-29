@@ -23,15 +23,15 @@
 
 ### 所有文章
 
-你的域名/typecho-json-miniprogram/
+你的域名/typecho-json-miniprogram/posts
 
 ### 分类
 
-你的域名/typecho-json-miniprogram/
+你的域名/typecho-json-miniprogram/categoryList
 
 ### 首页
 
-你的域名/typecho-json-miniprogram/
+你的域名/typecho-json-miniprogram/recentPost
 
 ## 设置页面
 
