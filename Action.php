@@ -20,11 +20,6 @@ class JSON_Action extends Typecho_Widget implements Widget_Interface_Do {
     private function defaults() {
         $this->export(NULL);
     }
-    private function count() {
-        $select = $this->db->select("COUNT(*) AS counts")->from('table.contents')->where('type = ?', 'post')->where('status = ?', 'publish')->where('created < ?', time());
-        $res    = $this->db->fetchRow($select);
-        return $this->export($res);
-    }
     //文章参数 pageSize, page, authorId, created, cid, category, commentsNumMax, commentsNumMin, allowComment
     private function posts() {
         $pageSize = (int) self::GET('pageSize', 1000);
