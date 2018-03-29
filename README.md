@@ -40,9 +40,9 @@
 ---
 # 推荐阅读
 
-[https://blog.isoyu.com/archives/typecho-json-miniprogram.html](Typecho通过json数据生成微信小程序 - 姬長信 )
+[https://blog.isoyu.com/archives/typecho-json-miniprogram.html](Typecho通过json数据生成微信小程序)
 
-[https://blog.isoyu.com/archives/typecho-cid-coid-mid.html](typecho获取文章的cid值，评论的coid值和分类的mid值 - 姬長信 )
+[https://blog.isoyu.com/archives/typecho-cid-coid-mid.html](typecho获取文章的cid值，评论的coid值和分类的mid值)
 # 感谢
 
 https://github.com/szj1006/typecho-api （本插件就是在这个基础上更改的，大家可以多多关注这位学美术的大佬）
