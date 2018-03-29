@@ -9,6 +9,7 @@
 ### 评论
 
 你的域名/typecho-json-miniprogram/recentComments
+
 栗子：[https://blog.isoyu.com/typecho-json-miniprogram/recentComments/](https://blog.isoyu.com/typecho-json-miniprogram/recentComments/)
 
 ![](https://i.loli.net/2018/03/29/5abce3d8a0195.jpg)
