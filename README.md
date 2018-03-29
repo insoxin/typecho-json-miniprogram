@@ -3,8 +3,15 @@
 使typecho 支持自定义输出文章，首页，评论，分类json数据，微信小程序定制版。可使Typecho通过json数据生成微信小程序。
 
 ---
+# 安装方法
 
-## 输出页面
+下载后重命名为 typecho-json-miniprogram 然后把文件夹上传至/usr/plugins文件夹内
+
+登录Typecho博客后台，顶部导航栏-控制台-插件-找到typecho-json-miniprogram-启用
+
+
+
+## json输出页面
 
 ### 评论
 
@@ -34,6 +41,6 @@
 
 # 感谢
 
-https://github.com/szj1006/typecho-api（本插件就是在这个基础上更改的，大家可以多多关注这位学美术的大佬）
+https://github.com/szj1006/typecho-api （本插件就是在这个基础上更改的，大家可以多多关注这位学美术的大佬）
 
 https://github.com/lizheming/JSON
