@@ -5,7 +5,7 @@
 ---
 # 安装方法
 
-下载后重命名为 typecho-json-miniprogram 然后把文件夹上传至/usr/plugins文件夹内
+下载后重命名为 JSON 然后把文件夹上传至/usr/plugins文件夹内
 
 登录Typecho博客后台，顶部导航栏-控制台-插件-找到typecho-json-miniprogram-启用
 
